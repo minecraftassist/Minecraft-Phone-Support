@@ -1,0 +1,7 @@
+{
+  "name": "Minecraft Phone Support",
+  "description": "Professional technical support for Minecraft players in the USA, offering solutions for APK downloads, login issues, Windows 11 updates, and more.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
